@@ -1,13 +1,13 @@
 {
-  "name": "js-video-url-parser",
-  "version": "0.5.1",
-  "description": "A parser to extract provider, video id, starttime and others from YouTube, Vimeo, ... urls",
+  "name": "nab-js-video-url-parser",
+  "version": "0.5.3",
+  "description": "A copy for emergency use of js-video-url-parser (parser to extract provider, video id, starttime and others from YouTube, Vimeo, ... urls)",
   "main": "lib/index.js",
   "browser": "dist/jsVideoUrlParser.js",
   "types": "lib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zod-/jsVideoUrlParser.git"
+    "url": "https://github.com/egonzalez-nabenik/NabJsVideoUrlParser.git"
   },
   "keywords": [
     "parser",
@@ -26,12 +26,12 @@
     "Loom"
   ],
   "author": {
-    "name": "Julian Hangstörfer",
-    "email": "jhangstoerfer@gmail.com"
+    "name": "Esvin González (original: Julian Hangstörfer)",
+    "email": "egonzalez@nabenik.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Zod-/jsVideoUrlParser/issues"
+    "url": "https://github.com/egonzalez-nabenik/NabJsVideoUrlParser/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
